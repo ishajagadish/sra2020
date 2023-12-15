@@ -1,5 +1,5 @@
-# sra2020
-Projec Title: Predicting Parkinson’s: Using Neural Networks to Evaluate the Genetic Risk Factors Behind the Disease
+# UCSB Summer Research Academies 2020
+Project Title: Predicting Parkinson’s: Using Neural Networks to Evaluate the Genetic Risk Factors Behind the Disease
 
 To date, researchers do not know the exact reasons for the loss of dopaminergic neurons in the substantia nigra pars compacta
 (SNpc) that leads to Parkinson’s Disease (PD). Thus, it is extremely difficult to predict whether a patient is likely to develop
